@@ -24,7 +24,7 @@ npm start
 
 WINDOWS:
 
-*Requer o git bash
+*Requer o git bash e o Node.js
 
 git install 
 
@@ -32,13 +32,11 @@ Baixe o arquivo
 
 Arraste o arquivo para a área de trabalho
 
-Abra o git bash
+abra o cmd
 
 Selecione o diretorio da pasta (localização) e digite cd <diretorio> 
 
-bash install.sh
-
-abra o cmd
+start install.sh
 
 Selecione o diretorio da pasta (localização) e digite cd <diretorio> 
 
