@@ -32,11 +32,15 @@ git clone https://github.com/FRZMODZ/Bot-Jsh
 
 Arraste o arquivo para a área de trabalho
 
-Abra o cmd
+Abra o git bash
 
 Selecione o diretorio da pasta (localização) e digite cd <diretorio> 
 
-start install.sh
+bash install.sh
+
+abra o cmd
+
+Selecione o diretorio da pasta (localização) e digite cd <diretorio> 
 
 npm start
 
