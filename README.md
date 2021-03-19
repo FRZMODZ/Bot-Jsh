@@ -1,26 +1,29 @@
 # FRZ
 
 BOT PARA TERMUX/WINDOWS
+
 BOT DO CAUSSZ MODIFICADO
+
 INSTALAÇÃO: 
-Termux: 
+
+TERMUX: 
 pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts
 
-git clone https://github.com/Danibeixons/BotWhatsapp-Frz
+git clone https://github.com/FRZMODZ/Bot-Jsh
 
-cd BotWhatsapp-Frz
+cd jsh-bot
 
 bash install.sh
 
 npm start
 
-Windows:
+WINDOWS:
 
 *Requer o git bash
 
 git install 
 
-git clone https://github.com/Danibeixons/BotWhatsapp-Frz
+git clone https://github.com/FRZMODZ/Bot-Jsh
 
 Arraste o arquivo para a área de trabalho
 
