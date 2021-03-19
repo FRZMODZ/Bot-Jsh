@@ -28,7 +28,7 @@ WINDOWS:
 
 git install 
 
-git clone https://github.com/FRZMODZ/Bot-Jsh
+Baixe o arquivo
 
 Arraste o arquivo para a área de trabalho
 
